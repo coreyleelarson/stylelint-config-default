@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config-default",
+  "name": "@coreyleelarson/stylelint-config-default",
   "version": "1.0.0",
   "license": "MIT",
   "author": "Corey Larson <coreyleelarson@gmail.com>",
